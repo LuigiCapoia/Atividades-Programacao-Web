@@ -1,0 +1,8 @@
+(NOVO)
+- npm init -y (CRIAR O PACKAGE JSON)
+- npm install --save-dev ts-node typescript jest
+- npm install express mongoose
+
+(JA EXISTENTE)
+- npm install
+- npm run start
